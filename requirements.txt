@@ -1,0 +1,7 @@
+torch==1.3.0
+scikit-learn
+tqdm
+pandas
+numpy
+fasttext
+numba
